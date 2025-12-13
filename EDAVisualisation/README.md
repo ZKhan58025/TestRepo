@@ -1,6 +1,6 @@
 # Exploratory Data Analysis with Visualization
 
-This section documents the EDA with Visualization lab completed in the IBM Skills Network environment.
+This section documents the EDA with Visualization lab 
 
 Visualizations created include:
 - Flight Number vs Launch Site
